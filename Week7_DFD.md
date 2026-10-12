@@ -23,7 +23,7 @@ The diagrams use the following **Yourdon notation** consistently:
 
 ## 2. Context diagram - Process 0
 
-![Yourdon context-level DFD](diagrams/01_context.svg)
+![Yourdon context-level DFD](diagrams/01_context.png)
 
 **Process 0:** KHub Cross-Section Engagement Analytics Module. Exactly three external entities interact with the one whole-system process; no data stores or internal subsystems are drawn at this level.
 
@@ -39,7 +39,7 @@ The diagrams use the following **Yourdon notation** consistently:
 
 ## 3. Level-0 DFD - Decomposition of Process 0
 
-![Yourdon Level-0 DFD](diagrams/02_level0.svg)
+![Yourdon Level-0 DFD](diagrams/02_level0.png)
 
 The whole system is decomposed into **four** major processes.
 
@@ -79,7 +79,7 @@ KHub's existing source database is **not** drawn as an internal data store. It b
 
 ## 4. Level-1 DFD - Process 1.0: Authorize Analytics Access
 
-![Yourdon Level-1 DFD of process 1.0](diagrams/03_level1_p1.svg)
+![Yourdon Level-1 DFD of process 1.0](diagrams/03_level1_p1.png)
 
 | Subprocess | Description |
 |---|---|
@@ -92,7 +92,7 @@ KHub's existing source database is **not** drawn as an internal data store. It b
 
 ## 5. Level-1 DFD - Process 2.0: Retrieve KHub Records
 
-![Yourdon Level-1 DFD of process 2.0](diagrams/04_level1_p2.svg)
+![Yourdon Level-1 DFD of process 2.0](diagrams/04_level1_p2.png)
 
 | Subprocess | Description |
 |---|---|
@@ -105,7 +105,7 @@ KHub's existing source database is **not** drawn as an internal data store. It b
 
 ## 6. Level-1 DFD - Process 3.0: Compute Engagement Measures
 
-![Yourdon Level-1 DFD of process 3.0](diagrams/05_level1_p3.svg)
+![Yourdon Level-1 DFD of process 3.0](diagrams/05_level1_p3.png)
 
 | Subprocess | Description |
 |---|---|
@@ -118,7 +118,7 @@ KHub's existing source database is **not** drawn as an internal data store. It b
 
 ## 7. Level-1 DFD - Process 4.0: Present Reports and Status
 
-![Yourdon Level-1 DFD of process 4.0](diagrams/06_level1_p4.svg)
+![Yourdon Level-1 DFD of process 4.0](diagrams/06_level1_p4.png)
 
 | Subprocess | Description |
 |---|---|
